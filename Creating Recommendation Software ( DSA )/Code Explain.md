@@ -1,4 +1,4 @@
-Certainly! Let’s break down the provided Python code for a movie recommendation program.
+Break down the provided Python code for a movie recommendation program.
 
 ### Code Breakdown
 
