@@ -129,7 +129,3 @@ Let’s break down the Tic-tac-toe code piece by piece:
    - **Purpose**: Ensures that `main()` is called when the script is executed directly.
    - **Details**:
      - This block runs the `main()` function if the script is executed as the main program, not if it is imported as a module.
-
-### Summary
-
-This code implements a simple terminal-based Tic-tac-toe game in Python. It sets up a 3x3 game board, allows two players to take turns making moves, and checks for win or draw conditions after each move. The game continues until one player wins or the board is filled with no winner.
